@@ -1,0 +1,15 @@
+/Users/doug/Documents/Coding/grand-circus/back-end/labs/lab-2.1-student-database/lab-2.1-student-database/bin/Debug/net6.0/lab-2.1-student-database
+/Users/doug/Documents/Coding/grand-circus/back-end/labs/lab-2.1-student-database/lab-2.1-student-database/bin/Debug/net6.0/lab-2.1-student-database.deps.json
+/Users/doug/Documents/Coding/grand-circus/back-end/labs/lab-2.1-student-database/lab-2.1-student-database/bin/Debug/net6.0/lab-2.1-student-database.runtimeconfig.json
+/Users/doug/Documents/Coding/grand-circus/back-end/labs/lab-2.1-student-database/lab-2.1-student-database/bin/Debug/net6.0/lab-2.1-student-database.dll
+/Users/doug/Documents/Coding/grand-circus/back-end/labs/lab-2.1-student-database/lab-2.1-student-database/bin/Debug/net6.0/lab-2.1-student-database.pdb
+/Users/doug/Documents/Coding/grand-circus/back-end/labs/lab-2.1-student-database/lab-2.1-student-database/obj/Debug/net6.0/lab-2.1-student-database.csproj.AssemblyReference.cache
+/Users/doug/Documents/Coding/grand-circus/back-end/labs/lab-2.1-student-database/lab-2.1-student-database/obj/Debug/net6.0/lab-2.1-student-database.GeneratedMSBuildEditorConfig.editorconfig
+/Users/doug/Documents/Coding/grand-circus/back-end/labs/lab-2.1-student-database/lab-2.1-student-database/obj/Debug/net6.0/lab-2.1-student-database.AssemblyInfoInputs.cache
+/Users/doug/Documents/Coding/grand-circus/back-end/labs/lab-2.1-student-database/lab-2.1-student-database/obj/Debug/net6.0/lab-2.1-student-database.AssemblyInfo.cs
+/Users/doug/Documents/Coding/grand-circus/back-end/labs/lab-2.1-student-database/lab-2.1-student-database/obj/Debug/net6.0/lab-2.1-student-database.csproj.CoreCompileInputs.cache
+/Users/doug/Documents/Coding/grand-circus/back-end/labs/lab-2.1-student-database/lab-2.1-student-database/obj/Debug/net6.0/lab-2.1-student-database.dll
+/Users/doug/Documents/Coding/grand-circus/back-end/labs/lab-2.1-student-database/lab-2.1-student-database/obj/Debug/net6.0/refint/lab-2.1-student-database.dll
+/Users/doug/Documents/Coding/grand-circus/back-end/labs/lab-2.1-student-database/lab-2.1-student-database/obj/Debug/net6.0/lab-2.1-student-database.pdb
+/Users/doug/Documents/Coding/grand-circus/back-end/labs/lab-2.1-student-database/lab-2.1-student-database/obj/Debug/net6.0/lab-2.1-student-database.genruntimeconfig.cache
+/Users/doug/Documents/Coding/grand-circus/back-end/labs/lab-2.1-student-database/lab-2.1-student-database/obj/Debug/net6.0/ref/lab-2.1-student-database.dll
